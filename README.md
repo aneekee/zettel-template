@@ -3,7 +3,7 @@
 https://zettelkasten.de/overview/
 
 The main idea is to create notes and make links between them.
-This template is a folder/naming structure that I use personally.
+This template is a folder/naming structure that I use personally with Obsidian https://obsidian.md/.
 
 ## Folders Overview
 
